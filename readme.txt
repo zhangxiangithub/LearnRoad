@@ -1,3 +1,3 @@
 Git is a version control system.
 git push origin master
-Greating a new branch is quick AND simple
+Greating a new branch is quick  & simple
